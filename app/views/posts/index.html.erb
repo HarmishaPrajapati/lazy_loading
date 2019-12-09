@@ -1,0 +1,9 @@
+<% @images.each do |image| %>
+    <%= image_tag image, class: "lazy", style: "height:300px", width: "250", height: "250" %>
+<% end %>
+
+<script>
+  $(function() {
+    $("img.lazy").lazyload();
+  });
+</script>
