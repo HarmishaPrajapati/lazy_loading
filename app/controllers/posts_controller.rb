@@ -12,7 +12,6 @@ class PostsController < ApplicationController
       'https://quotefancy.com/media/wallpaper/1600x900/4710-Muhammad-Ali-Quote-I-hated-every-minute-of-training-but-I-said-Don.jpg',
       'https://cdn2.geckoandfly.com/wp-content/uploads/2014/03/leadership-management-style-skills-tips-quotes.jpg',
       'https://s-media-cache-ak0.pinimg.com/originals/a4/d3/40/a4d340f895d9d32066817e81c5740ae8.jpg',
-      'http://www.rd.com/wp-content/uploads/sites/2/2016/07/Motivational_quotes_olympic_coaches4.jpg'
     ]
   end
 end
